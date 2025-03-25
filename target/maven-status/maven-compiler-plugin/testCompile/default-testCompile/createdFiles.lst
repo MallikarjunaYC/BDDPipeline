@@ -1,0 +1,4 @@
+runners\CucumberRunnerTest.class
+stepdefinitions\DashboardSteps.class
+AppHooks\ApplicationHooks.class
+stepdefinitions\LoginPageSteps.class
