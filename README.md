@@ -62,3 +62,5 @@ Make sure to check the `pom.xml` file for the complete list of dependencies and 
 
 ## Contributing
 Feel free to submit issues or pull requests for improvements or bug fixes.
+# BDDPipeline
+Sample BDD Repo. Uses Java, Selenium, Cucumber, Extent Reports, POM design pattern
